@@ -1,5 +1,5 @@
 # Beyond Burnout: A Guide to Purposeful Unwinding
-![img.png](table-of-contents.png)
+![img.png](_posts/beyond-burnout-images/table-of-contents.png)
 
 ## How to know that you finally need to wind down?
 You were working relentlessly for extended periods, and now that desire to persist diminishes. A sentiment previously brushed aside demands attention. You can no longer continue with the same ferocity.
@@ -12,7 +12,7 @@ Coding, writing, composing music — or whatever that you used to do so effortle
 
 If you’re experiencing this, it’s a clear indication that it’s time to _wind down_.
 
-![img.png](captian-its-wednesday.png)
+![img.png](_posts/beyond-burnout-images/captian-its-wednesday.png)
 
 ## What is winding down?
 There is no set definition to it, but it involves taking a break from your routine. Doing things that you should be doing regularly for relaxation, but you were neglecting them.
