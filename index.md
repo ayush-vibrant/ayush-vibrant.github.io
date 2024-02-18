@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+👋, I'm Ayush Sharma.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I am an _**Engineer**_, who loves to build products and run businesses.
