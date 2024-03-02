@@ -38,7 +38,7 @@ The concept of the sliding window accounts for almost 30% of interview questions
 - **Dynamic Size Window:** \(k\) might not be given but asked. In this case, you’d assume/calculate for different size windows and see if this particular size window matches the conditions. 
     > Hint: Questions would be like largest window having positive sum, smallest window. While solving such questions you might have to use an additional list / map / array.
     
-  - #### Code pattern for fixed size sliding window
+  - #### Code pattern for dynamic size sliding window
       ```
       int n = arr.length; // Length of the array
       int i = 0; // Start of the window
