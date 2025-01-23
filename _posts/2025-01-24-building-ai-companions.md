@@ -1,6 +1,7 @@
 ---
 title: "Building AI Companions: A Guide to First Principles and Product Building"
 date: "2025-01-24"
+permalink: /building-ai-companions/
 og:
  description: "A deep dive into first principles of building AI companions, common mistakes, and frameworks to think about the space"
 ---
