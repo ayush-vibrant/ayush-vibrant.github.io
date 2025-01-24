@@ -40,7 +40,7 @@ A typical AI approach: "Open your Paytm app, look for the electricity bill secti
 
 This is just Google with extra steps. Your father is still confused, still needs to do all the work.
 
-A real companion - like your son would do: "I'll take care of it, Dad." Then handles everything: verifies the amount, makes the payment, keeps the receipt, sets up reminders for next month.
+A real companion - like your son would do: "I'll take care of it, Papa." Then handles everything: verifies the amount, makes the payment, keeps the receipt, sets up reminders for next month.
 
 Let's see this in medication management:
 - Basic AI: Sends reminders to take medicine
