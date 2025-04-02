@@ -1,4 +1,4 @@
-## Improving the SWE Hiring Process: Beyond LeetCode Completionism
+## Improving the SWE Hiring Process: Beyond LeetCode Completionism to Hire Engineers Who Think, Not Just Solve
 
 Been thinking about what small but meaningful improvements can be made in engineering hiring to better identify great engineers. Sure, you can completely overhaul the process—scrap LeetCode, get rid of system design rounds, block diagramming, and replace everything with a new, shiny system. But realistically, that’s not how it works. Hiring processes don’t transform overnight. They evolve incrementally.
 
