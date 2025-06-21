@@ -9,6 +9,7 @@ I am an _**Engineer**_, who loves to build products and run businesses.
 * Blockchain Developer at [Laxmicoin](https://laxmicoin.com/): India's First cryptocurrency
 
 ## Side Quests
+* [Amazon Return Policy Checker](https://chromewebstore.google.com/detail/amazon-return-policy-chec/ohilkfdmkndifbfcdnmddgjjagdogaef)
 * [WriteMySop](https://writemysop.framer.website/)
 * [JournalEase](https://journalease.framer.website/)
 * [PDF Quest](https://olxpert.streamlit.app/)
