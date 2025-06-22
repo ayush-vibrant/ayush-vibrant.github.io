@@ -4,7 +4,8 @@ title: "Design Observations"
 date: 2025-06-22
 categories: design
 ---
-## Adaptive notification timing
+
+- ## Adaptive notification timing
 
 New users need time to read alerts. Experienced users want them gone quickly.
 
@@ -16,7 +17,7 @@ This respects user expertise while keeping helpful guidance.
 
 ![Alert Example](/assets/img/alert.png)
 
-## User delight via micro animations
+- ## User delight via micro animations
 
 WhatsApp's "view once" messages show craftsmanship in a tiny detail.
 
