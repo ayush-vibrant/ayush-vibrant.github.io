@@ -14,7 +14,7 @@ A browser's "press escape to exit fullscreen" alert works perfectly here. New us
 
 This respects user expertise while keeping helpful guidance.
 
-![Alert Example](/assets/img/alert.png)
+![Alert Example]({{ '/assets/img/alert.png' | relative_url }})
 
 ## User delight via micro animations
 
