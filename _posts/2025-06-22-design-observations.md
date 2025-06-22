@@ -15,3 +15,15 @@ A browser's "press escape to exit fullscreen" alert works perfectly here. New us
 This respects user expertise while keeping helpful guidance.
 
 ![Alert Example](/assets/img/alert.png)
+
+**User delight via micro animations**: WhatsApp's "view once" messages show craftsmanship in a tiny detail.
+
+Send a view-once photo. After someone views it, try tapping it three times. WhatsApp shows a fading "shush" emoji floating upward.
+
+This path barely gets used. Most people tap once, see nothing, and move on. But WhatsApp still polished this micro-interaction.
+
+Instead of showing an error popup saying "you can only view this once," they use a playful animation. The shush emoji communicates the same message: this was meant to be seen once.
+
+That's craftsmanship. Delighting users even in the smallest, least-traveled corners of your product.
+
+![Micro animation Example](/assets/img/shush.gif)
