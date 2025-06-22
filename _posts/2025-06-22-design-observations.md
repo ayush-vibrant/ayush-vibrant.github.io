@@ -4,9 +4,9 @@ title: "Design Observations"
 date: 2025-06-22
 categories: design
 ---
-# Running observations (WIP)
+## Adaptive notification timing
 
-- **Adaptive notification timing**:  New users need time to read alerts. Experienced users want them gone quickly.
+New users need time to read alerts. Experienced users want them gone quickly.
 
 Track how long someone has used your product. Show alerts longer for newcomers, shorter for veterans.
 
@@ -16,7 +16,9 @@ This respects user expertise while keeping helpful guidance.
 
 ![Alert Example](/assets/img/alert.png)
 
-**User delight via micro animations**: WhatsApp's "view once" messages show craftsmanship in a tiny detail.
+## User delight via micro animations
+
+WhatsApp's "view once" messages show craftsmanship in a tiny detail.
 
 Send a view-once photo. After someone views it, try tapping it three times. WhatsApp shows a fading "shush" emoji floating upward.
 
@@ -26,4 +28,4 @@ Instead of showing an error popup saying "you can only view this once," they use
 
 That's craftsmanship. Delighting users even in the smallest, least-traveled corners of your product.
 
-![Micro animation Example](/assets/img/shush.gif)
+![Micro animation Example]({{ site.baseurl }}/assets/img/shush.gif)
