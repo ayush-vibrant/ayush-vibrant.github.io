@@ -28,4 +28,4 @@ Instead of showing an error popup saying "you can only view this once," they use
 
 That's craftsmanship. Delighting users even in the smallest, least-traveled corners of your product.
 
-![Micro animation Example]({{ site.baseurl }}/assets/img/shush.gif)
+![Micro animation Example](/assets/img/shush.gif)
