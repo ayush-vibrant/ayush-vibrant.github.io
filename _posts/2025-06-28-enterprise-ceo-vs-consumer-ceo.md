@@ -7,7 +7,7 @@ categories: business
 
 # What Makes an Enterprise CEO Different from a Consumer CEO?
 
-I'm observing how companies grow. There's a sharp difference between running a business that sells to other businesses and one that sells to everyday consumers. Let's keep it simple.
+I'm observing how companies grow. There's a sharp difference between running a business that sells to other businesses and one that sells to everyday consumers.
 
 **An enterprise CEO** is a builder of ecosystems. Imagine you sell software to banks. Your job is not just to make good software. You need to form relationships, integrate with clients' systems, and support long, complicated sales cycles. It's dinner meetings, contract negotiations, and building trust brick by brick. Success is measured by how well your product fits into a larger business puzzle.
 
