@@ -132,7 +132,7 @@ They solve *organizational scalability in a fragmented AI ecosystem*.
 - Reduced procurement and integration surface
 - Compliance and billing simplification
 
-### It’s tempting to think routers primarily solve these problems — but in practice they *don’t*::
+### It’s tempting to think routers primarily solve these problems — but in practice they *don’t*:
 - Model quality
 - Prompting strategy
 - Eval correctness
@@ -150,7 +150,7 @@ A major mistake is treating experimentation and production as the same problem.
 
 ### In experimentation
 
-The router is  a **model marketplace and switchboard**.
+The router is a **model marketplace and switchboard**.
 
 Value:
 - rapid access to many models,
@@ -212,8 +212,6 @@ This is structurally similar to:
 
 They do not create the goods. They shape how goods flow.
 
----
-
 ## New Revenue Surfaces: Where This Gets Interesting
 
 Once a router becomes the default coordination layer, it opens up business models that go far beyond token forwarding.
@@ -262,8 +260,6 @@ They become **information platforms about the AI market itself**.
 
 This is a much deeper moat than pass-through margins.
 
----
-
 ## Competition Is Structural, Not Feature-Based
 
 Different players exist not because they disagree on features, but because they optimize for **different failure modes** of coordination.
@@ -311,7 +307,6 @@ These are not just competitors.
 
 They are different answers to **where coordination should live** in the AI stack.
 
----
 ## Power Dynamics and Strategic Pressure
 
 This layer sits in a fragile position.
@@ -329,8 +324,6 @@ Routers are squeezed from:
 - sideways by open-source orchestration
 
 Their survival depends on moving up the value stack faster than they are commoditized.
-
----
 
 ## When This Layer Weakens
 
