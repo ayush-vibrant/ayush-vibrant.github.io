@@ -3,6 +3,7 @@ layout: post
 title: "Notes on 'The Scaling Era: An Oral History of AI, 2019-2025'"
 date: 2025-11-05
 categories: ai
+published: false
 ---
 
 # Notes on 'The Scaling Era: An Oral History of AI, 2019-2025'
