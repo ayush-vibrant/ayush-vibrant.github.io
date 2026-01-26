@@ -1,0 +1,20 @@
+----
+
+- introduce the problem 
+- how openrouter solves it
+- other players in the market
+- fundamentallly why this business model exists
+  - signing contracts with N number of model providers vs single
+  - clear observability dashboard/pov
+- what is the threat to this business model
+  - can this model last?
+  - how can they evolve?
+- 
+
+- how big is this market? 
+
+Resources:
+- https://openrouter.ai/docs/guides/overview/principles
+
+Explore this also:
+- https://www.notdiamond.ai/ OpenRouter uses them for dynamic model routing

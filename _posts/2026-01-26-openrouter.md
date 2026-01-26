@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why the LLM Routing Layer Exists (and Why It Won’t Last Forever): The OpenRouter Case"
-date: 2026-01-27
+date: 2026-01-26
 categories: 
 ---
 
