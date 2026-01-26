@@ -24,17 +24,11 @@ Calling this layer “routing” is misleading if interpreted through the lens o
 In practice, LLM routers bundle three functions:
 
 1. **A policy engine**
-    
     Selecting models based not just on availability, but on latency ceilings, cost constraints, safety requirements, data residency, and contractual obligations.
-    
 2. **A commercial abstraction layer**
-    
     One billing surface, one contract, one compliance posture across a fragmented supply side.
-    
 3. **A control plane for inference**
-    
     Observability, retries, failover, cost controls, and operational governance across providers.
-    
 
 What is being routed is not just requests.
 
@@ -143,7 +137,6 @@ Their value lies in shifting organizational cost, not compute cost.
 
 They can reduce waste, retries, idle spend, and human ops cost, but they do not change the underlying economics of inference.
 
-
 ## Experimentation vs Production: Two Different Jobs-to-be-Done
 
 A major mistake is treating experimentation and production as the same problem.
@@ -223,13 +216,11 @@ An analogy from commerce platforms is useful here.
 When you order product X on Zepto and it suggests product Y because it is cheaper or better, Zepto is no longer just a logistics platform. It becomes a monetized discovery surface.
 
 Similarly, OpenRouter-like platforms can become **model discovery marketplaces**:
-
 - If a developer is using OpenAI for PDF parsing,
 - and a fine-tuned Mistral model performs better or cheaper,
 - Mistral could sponsor visibility or recommendation in that context.
 
 This turns routers into:
-
 - performance-based discovery engines
 - not just neutral proxies
 
@@ -240,14 +231,12 @@ This is a powerful and underappreciated monetization vector.
 ### 2. Market intelligence as a product
 
 Because routers sit on the critical path of API calls, they observe:
-
 - which use cases map to which models
 - switching patterns
 - failure modes and performance cliffs
 - real-world task–model fit
 
 This aggregate insight is enormously valuable to:
-
 - model builders benchmarking competitors
 - investors tracking model adoption
 - enterprises evaluating vendor risk
@@ -267,39 +256,33 @@ Different players exist not because they disagree on features, but because they 
 ### Cloud-native stacks (Azure Foundry, Bedrock)
 
 Optimize for:
-
 - predictability
 - enterprise contracts
 - deep vertical integration
 
 Trade off:
-
 - model breadth
 - speed of onboarding new research models
 
 ### Router-marketplaces (OpenRouter)
 
 Optimize for:
-
 - inventory breadth
 - time-to-access
 - market discovery
 
 Trade off:
-
 - deep vertical integration
 - ultimate predictability
 
 ### Infra orchestration layers (Portkey, LiteLLM)
 
 Optimize for:
-
 - observability
 - governance
 - on-prem and hybrid deployment
 
 Trade off:
-
 - marketplace dynamics
 - rapid access to long-tail models
 
@@ -318,7 +301,6 @@ Cloud providers will try to absorb routing into native platforms.
 Large enterprises will push for direct contracts to reduce dependency.
 
 Routers are squeezed from:
-
 - upstream by model creators
 - downstream by hyperscalers
 - sideways by open-source orchestration
@@ -360,7 +342,6 @@ LLM routers do not exist because routing is hard.
 They exist because **coordination is hard** in an unstable, fragmented AI ecosystem.
 
 Their value is not in where they send requests, but in how they:
-
 - collapse organizational complexity,
 - reshape market access,
 - and define how models compete for adoption.
