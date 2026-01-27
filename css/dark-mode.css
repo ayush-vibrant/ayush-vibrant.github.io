@@ -1,0 +1,165 @@
+/* CSS Variables for Light and Dark Themes */
+
+:root {
+    --background-color: #fdfdfd;
+    --text-color: #111;
+    --link-color: #2a7ae2;
+    --link-visited-color: #1756a9;
+    --grey-color: #828282;
+    --grey-color-light: #e8e8e8;
+    --grey-color-dark: #424242;
+    --brand-color: #2a7ae2;
+    --code-background-color: #eef;
+    --border-color: #e8e8e8;
+    --table-border-color: #e8e8e8;
+}
+
+[data-theme="dark"] {
+    --background-color: #1a1a1a;
+    --text-color: #e0e0e0;
+    --link-color: #6ab0f3;
+    --link-visited-color: #8fc6ff;
+    --grey-color: #a0a0a0;
+    --grey-color-light: #2a2a2a;
+    --grey-color-dark: #e0e0e0;
+    --brand-color: #6ab0f3;
+    --code-background-color: #2a2a2a;
+    --border-color: #404040;
+    --table-border-color: #404040;
+}
+
+/* Prevent transitions during page load */
+.preload * {
+    transition: none !important;
+}
+
+/* Apply theme colors */
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    transition:
+        background-color 0.3s ease,
+        color 0.3s ease;
+}
+
+a {
+    color: var(--link-color);
+    transition: color 0.3s ease;
+}
+
+a:visited {
+    color: var(--link-visited-color);
+}
+
+.site-header {
+    border-top-color: var(--grey-color-dark);
+    border-bottom-color: var(--grey-color-light);
+    background-color: var(--background-color);
+    transition:
+        background-color 0.3s ease,
+        border-color 0.3s ease;
+}
+
+.site-title,
+.site-title:visited {
+    color: var(--grey-color-dark);
+}
+
+.site-nav .page-link {
+    color: var(--text-color);
+}
+
+.post-meta {
+    color: var(--grey-color);
+}
+
+.post-link {
+    color: var(--text-color);
+}
+
+pre,
+code {
+    background-color: var(--code-background-color);
+    border-color: var(--border-color);
+    transition:
+        background-color 0.3s ease,
+        border-color 0.3s ease;
+}
+
+blockquote {
+    color: var(--grey-color);
+    border-left-color: var(--grey-color-light);
+}
+
+table {
+    border-color: var(--table-border-color);
+}
+
+table th,
+table td {
+    border-color: var(--table-border-color);
+}
+
+hr {
+    border-color: var(--grey-color-light);
+}
+
+/* Theme Switcher Button */
+.theme-switcher {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 0;
+}
+
+.theme-switcher__button {
+    background: none;
+    border: 2px solid var(--text-color);
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+    width: 28px;
+    height: 28px;
+    position: relative;
+    vertical-align: middle;
+}
+
+.theme-switcher__button:hover {
+    background-color: var(--grey-color-light);
+    transform: scale(1.1);
+}
+
+.theme-switcher__icon {
+    font-size: 1rem;
+    position: absolute;
+    transition: opacity 0.2s ease;
+    line-height: 1;
+}
+
+.theme-switcher__icon--light {
+    opacity: 1;
+}
+
+.theme-switcher__icon--dark {
+    opacity: 0;
+}
+
+[data-theme="dark"] .theme-switcher__icon--light {
+    opacity: 0;
+}
+
+[data-theme="dark"] .theme-switcher__icon--dark {
+    opacity: 1;
+}
+
+/* Syntax highlighting adjustments for dark mode */
+[data-theme="dark"] .highlight {
+    background-color: var(--code-background-color);
+}
+
+[data-theme="dark"] .highlighter-rouge .highlight {
+    background-color: var(--code-background-color);
+}
