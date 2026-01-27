@@ -9,6 +9,8 @@ Buried in a recent Anthropic product update was a detail that deserves more atte
 
 This is not a minor implementation detail. It suggests that new AI capabilities no longer have to come from training at all.
 
+![Capabilities in Weights vs Capabilities as Skills](/assets/img/skills-as-new-layer.png)
+
 ## The Old Mental Model: Capabilities Live in the Weights
 
 Traditionally, if you wanted a model to do something new, you collected data, designed rewards, ran RL, validated, and shipped. In this frame, product capability is downstream of training. The weights are where behavior lives.
