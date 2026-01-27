@@ -1,0 +1,22 @@
+/* Geist Font Configuration */
+
+body,
+html {
+    font-family: "Geist", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+/* Apply Geist to headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Geist", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+/* Code and pre blocks should use monospace */
+code, pre {
+    font-family: "Geist Mono", "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas, "Courier New", monospace;
+}
+
+/* Site title and navigation */
+.site-title,
+.site-nav {
+    font-family: "Geist", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
